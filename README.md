@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi there👋, I'm <a href="https://kabir0x23.github.io/">Kabir</a>!</h1>
 
-![GitHub_kabir0x23](https://user-images.githubusercontent.com/44284877/207358244-0ceba8fb-6ff0-4d51-99c6-523dd57943e3.png "Kabir0x23")
+![GitHub_0xk4b1r3](https://user-images.githubusercontent.com/44284877/207358244-0ceba8fb-6ff0-4d51-99c6-523dd57943e3.png "0xk4b1r")
 
 <p align="center">
   Working on Opensource projects,  and community, where people can contribute and get started with their Opensource and Cybersecurity journey.
@@ -67,7 +67,7 @@ const skills = {
 
 <div align="center">
   // Hacker Profiles // <br/> <br/>
-  <a href="https://tryhackme.com/p/kabir0x23"> 
+  <a href="https://tryhackme.com/p/0xk4b1r"> 
     <img src="https://tryhackme-badges.s3.amazonaws.com/kabir0x23.png" alt="TryHackMe">
   </a>
 </div>
@@ -81,23 +81,23 @@ const skills = {
 <div align="center">
 <h3> 🤝 Connect and Reach out to me: 👇</h3>
   
-  <a href="https://twitter.com/kabir0x23">
+  <a href="https://twitter.com/0xk4b1r">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/kabir0x23/">
+  <a href="https://www.linkedin.com/in/0xk4b1r/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-<!--   <a href="https://www.instagram.com/kabir0x23"> -->
+<!--   <a href="https://www.instagram.com/0xk4b1r"> -->
 <!--     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> -->
 <!--   </a> -->
-<!--   <a href="https://kabir0x23.medium.com">
+<!--   <a href="https://k0xk4b1r.medium.com">
    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a> -->
-<!--   <a href="https://linktree.com/kabir0x23">
+<!--   <a href="https://linktree.com/0xk4b1r">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
   </a> -->
  
-<!--   <a href="http://kabir0x23.github.io/Portfolio">
+<!--   <a href="http://0xk4b1r.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=white" >
   </a> -->
 </div>
@@ -110,13 +110,13 @@ const skills = {
 <!-- --- -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabir0x23&count_private=true&theme=dark&show_icons=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabir0x23&theme=dark&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xk4b1r&count_private=true&theme=dark&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xk4b1r&theme=dark&count_private=true" />
 </p>
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=kabir0x23&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=0xk4b1r&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
